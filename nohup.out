@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "/Users/ezrakrupka/PycharmProjects/Family_Birthdays_Project/core_files/schedule_messages.py", line 5, in <module>
+    import send_email as e
+  File "/Users/ezrakrupka/PycharmProjects/Family_Birthdays_Project/core_files/send_email.py", line 1, in <module>
+    import easyimap as e
+ModuleNotFoundError: No module named 'easyimap'
+Traceback (most recent call last):
+  File "/Users/ezrakrupka/PycharmProjects/Family_Birthdays_Project/core_files/schedule_messages.py", line 5, in <module>
+    import send_email as e
+  File "/Users/ezrakrupka/PycharmProjects/Family_Birthdays_Project/core_files/send_email.py", line 1, in <module>
+    import easyimap as e
+ModuleNotFoundError: No module named 'easyimap'
+Message: 
+Tili's Birthday Is Tomorrow!
+🛰️ Successfully connected.
+📧 Successfully Sent Message.
+Message: 
+Huva's Birthday Is Exactly 1 Week Away!
+🛰️ Successfully connected.
+📧 Successfully Sent Message.
+📦 Job Done.
